@@ -1,0 +1,12 @@
+# img
+*.jpg
+*.png
+
+# vidya
+*.mp4
+*.mpg
+*.avi
+*.mkv
+
+# log
+*.log
