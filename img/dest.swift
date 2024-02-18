@@ -4,3 +4,4 @@ for cr in 5 {
     a += 1
     print(a)    
 }
+let t = "crm"
