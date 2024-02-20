@@ -10,4 +10,6 @@ Welcome to my first repository! This is a test repo for learning and experimenti
 
 Thank you for visiting my first repository! Happy coding!
 
-[My website](https://atakan.ninja)
+[My website][def]
+
+[def]: https://atakan.ninja
