@@ -9,3 +9,5 @@ Welcome to my first repository! This is a test repo for learning and experimenti
 - Practice writing clean and well-documented code.
 
 Thank you for visiting my first repository! Happy coding!
+
+[My website](https://atakan.ninja)
