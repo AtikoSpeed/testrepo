@@ -1,2 +1,8 @@
-k bsasadsa
-cillorum
+/* Copilot button style */
+.cool-hover {
+    transition: transform 0.3s ease-in-out;
+}
+
+.cool-hover:hover {
+    transform: scale(1.2);
+}
